@@ -49,8 +49,9 @@ The follows tools were used in building the project:
 
 ## Author
 
-<img src="Me.jpg" style="zoom:5%;" />
+<img src="Me.jpg" style="width:150px;" />
 
 <p align=center>Igor Sprovieri<p/>
 
 <p align=center>Unity C# Developer<p/>
+
