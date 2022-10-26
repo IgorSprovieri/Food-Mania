@@ -43,7 +43,7 @@ Next step is download this project on folder that you choose and add this projec
 The follows tools were used in building the project:
 
 - Engine: Unity 2021.3.6f1
-- Language: [Unity C#](Language: Unity C# [https://docs.unity3d.com/ScriptReference/]) 
+- Language: [Unity C#](https://docs.unity3d.com/ScriptReference/) 
 
 - Editor: Visual Studio Community
 
