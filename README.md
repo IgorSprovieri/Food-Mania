@@ -40,6 +40,12 @@ Next step is download this project on folder that you choose and add this projec
 
 ## Technologies
 
+The follows assets were used in building the project:
+
+- [Cute Cartoon Mobile GUI](https://assetstore.unity.com/packages/2d/gui/cute-cartoon-mobile-gui-97-png-files-35315)
+
+
+
 The follows tools were used in building the project:
 
 - Engine: Unity 2021.3.6f1
@@ -54,4 +60,3 @@ The follows tools were used in building the project:
 <p>Igor Sprovieri<p/>
 
 <p>Unity C# Developer<p/>
-

@@ -6,6 +6,7 @@ using UnityEngine;
 public class Food : ScriptableObject
 
 {
+    public int ID;
     public string Name;
     public Sprite Image;
     public int UnlockLevel;
